@@ -1,0 +1,23 @@
+
+/* paleta 1*/
+:root {
+    --branco: #fefefe;
+    --azul: #5cd2c6;
+    --cinza: #dfe3ee;
+    --azul-escuro: #363753;   
+
+}
+/*paleta 2*/
+:root {
+    --branco: #f9faf5;
+    --roxo: #6e77ee;
+    --cinza: #e4e4e4;
+    --cinza-escuro: #b7bac3;
+}
+/*paleta 3*/
+:root {
+    --preto: #0b1629;
+    --azul-escuro: #122543;
+    --azul-claro: #8cc4df;
+    --amarelo: #e2ff65;
+}
